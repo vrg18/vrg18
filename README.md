@@ -6,6 +6,7 @@
 ### 🛠 Стек
 
 - **Mobile:** Flutter (Android, iOS, PWA, Telegram Mini Apps)
+- **Frontend:** Next.js (TypeScript), Flutter Web
 - **Backend:** Dart (Serverpod) · Java (Spring Boot) · Python (FastAPI)
 - **DB:** PostgreSQL, Hive
 - **Real-time:** WebSocket, Firebase Messaging
