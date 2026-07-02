@@ -26,7 +26,7 @@
 
 ### 📂 Что здесь лежит
 
-- [`interactive-cv`](https://github.com/interactive-cv/interactive-cv) — **open-source-шаблон персонального сайта-резюме с двумя AI-функциями**: (1) AI-ассистент отвечает рекрутёру по фактам из CV с потоковой передачей и защитой от галлюцинаций; (2) AI-генератор создаёт адаптированный CV и cover letter прямо из текста вакансии. Полноценный продукт: Python/FastAPI + Next.js, RAG (glm-4.7 через z.ai), граф знаний, админ-панель, короткие ссылки с аналитикой, авто-TLS. Живой пример: [cv.libera.pro](https://cv.libera.pro).
+- [`interactive-cv`](https://github.com/interactive-cv/interactive-cv) — **open-source-шаблон персонального сайта-резюме с двумя AI-функциями**: (1) AI-ассистент отвечает рекрутёру по фактам из CV с потоковой передачей и защитой от галлюцинаций; (2) AI-генератор создаёт адаптированный CV и cover letter прямо из текста вакансии. Полноценный продукт: Python/FastAPI + Next.js, RAG (glm-4.7 от Z.ai), граф знаний, админ-панель, короткие ссылки с аналитикой, авто-TLS. Живой пример: [cv.libera.pro](https://cv.libera.pro).
 - [`push_notifications`](https://github.com/vrg18/push_notifications) — эксперименты с push-уведомлениями во Flutter (Firebase Messaging).
 - [`keeneic-reg-ru-ddns`](https://github.com/vrg18/keeneic-reg-ru-ddns) — shell-скрипт DDNS для reg.ru / Keenetic: автоматизация обновления DNS-записей.
 
