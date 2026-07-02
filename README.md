@@ -12,7 +12,7 @@
 - **Real-time:** WebSocket, Firebase Messaging
 - **DevOps:** Docker, Docker Compose, Kubernetes, GitLab CI, GitHub Actions, Nginx
 - **Интеграции:** REST API, внешние сервисы (платёжные, картографические), 1С, ЭЦП
-- **AI/LLM:** RAG, стриминг ответов LLM (SSE), промпт-инжиниринг с защитой от галлюцинаций, AI-генерация документов — glm-4.7 (z.ai)
+- **AI/LLM:** RAG, стриминг ответов LLM (SSE), промпт-инжиниринг с защитой от галлюцинаций, AI-генерация документов
 
 ### 🔒 Про коммерческие проекты
 
